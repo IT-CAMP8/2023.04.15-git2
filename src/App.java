@@ -17,5 +17,7 @@ public class App {
         System.out.println("konflikt2");
 
         System.out.println("Konflikt1");
+
+        System.out.println("Zmiana !!");
     }
 }
