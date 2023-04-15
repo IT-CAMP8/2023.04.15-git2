@@ -11,5 +11,7 @@ public class App {
         System.out.println("kolejne linie w nowym branchu !!!");
 
         System.out.println("cos jeszcze !!");
+
+        System.out.println("jeszcze jakas poprawka !!!");
     }
 }
