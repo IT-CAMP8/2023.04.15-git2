@@ -13,5 +13,7 @@ public class App {
         System.out.println("cos jeszcze !!");
 
         System.out.println("jeszcze jakas poprawka !!!");
+
+        System.out.println("konflikt2");
     }
 }
