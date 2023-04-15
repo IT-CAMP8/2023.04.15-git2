@@ -7,5 +7,9 @@ public class App {
         System.out.println("Cos nowego !!!");
 
         System.out.println("zmiany w nowej galezi !!!");
+
+        System.out.println("kolejne linie w nowym branchu !!!");
+
+        System.out.println("cos jeszcze !!");
     }
 }
